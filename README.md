@@ -4,8 +4,10 @@ Este é um projeto de um jogo simples de matar moscas, desenvolvido durante um c
 ## Tecnologias Utilizadas
 O jogo foi construído utilizando as seguintes tecnologias:
 
-JavaScript: A linguagem de programação principal para a lógica do jogo.
+JavaScript: A linguagem de programação principal para a lógica do jogo. 
+
 HTML: Responsável pela estrutura e marcação dos elementos da página.
+
 CSS: Utilizado para estilizar e dar uma aparência atraente ao jogo.
 
 ## Como Jogar
